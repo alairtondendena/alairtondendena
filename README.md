@@ -18,7 +18,7 @@ I modernize legacy platforms into cloud-native, event-driven systems, then ship 
 - **Benefits fintech:** led 3 engineering teams. Extracted the rewards domain from a Scala/ZIO monolith into Kotlin/Spring Boot, then shipped OpenFGA authorization and an AI recognition agent; the product hit a **record BRL 100M/month in cash-in**. Kafka + DLQ and ECS → EKS on card logistics: **−8 p.p. contact rate**. AI onboarding agent (RAG, guardrails, human handover): **+12 p.p. lead-to-active conversion**.
 - **Large Brazilian bank:** Event Storming and DDD to move nationwide batch payments (CNAB240, TED, PIX) from the mainframe to an event-driven cloud architecture across 5 teams: **20+ min faster responses, ~BRL 32K/month less infrastructure**.
 - **Telecom operator:** async digital contract signing on Azure Event Hub (Kafka) and facial-biometrics authentication sized for **~300K requests/month**.
-- **Public-sector SaaS:** e-invoicing for **800+ municipalities**. PDF/XML generation **from 7 s to 250 ms** with SQS/S3, on-prem → AWS migration and per-tenant isolation.
+- **GovTech SaaS:** e-invoicing for **800+ cities**. PDF/XML generation **from 7 s to 250 ms** with SQS/S3, on-prem → AWS migration and per-tenant isolation.
 
 ### Tech stack
 
